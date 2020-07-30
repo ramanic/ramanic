@@ -3,6 +3,9 @@
 [<img align="left" alt="Ramanic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_ramanic)
 [<img align="left" alt="Ramanic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ramanic/)
 [<img align="left" alt="Ramanic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_ramanic/)
+
+<br />
+---
 - 📚 I'm a CS student.
 - 🔭 I’m currently working on personal Laravel Project <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 - 🌱 I’m currently learning ML with Tensorflow<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
