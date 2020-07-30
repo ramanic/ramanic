@@ -28,6 +28,7 @@ Hi , I am Raman Lamichhane,a CS student and a tech enthusiast who loves to code 
 <br />
 
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ramanic&show_icons=true&hide_border=true" />
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
