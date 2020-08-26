@@ -29,7 +29,6 @@ Hi , I am Raman Lamichhane,a CS student and a tech enthusiast who loves to code 
 
 ---
 
-![Raman's github stats](https://github-readme-stats.vercel.app/api?username=ramanic&theme=dark)
 
 
 
