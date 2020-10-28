@@ -7,10 +7,6 @@
 
 Hi , I am Raman Lamichhane,a CS student and a tech enthusiast who loves to code ❤️
 <br />
-
-- 🔭 I’m currently working on personal Laravel Project <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-- 🌱 I’m currently learning ML with Tensorflow<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-
 <br />
 
 ### Languages and Tools:
