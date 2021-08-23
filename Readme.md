@@ -7,7 +7,7 @@
 Hi , I am Raman Lamichhane,a CS student and a tech enthusiast who loves to code ❤️
 <br />
 <br />
-<img alt="Raman Lamichane" src="https://github.com/ramanic/ramanic/raw/master/code.gif">
+<img alt="Raman Lamichane" height="300" src="https://github.com/ramanic/ramanic/raw/master/code.gif">
 <br />
 <br />
 
