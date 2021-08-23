@@ -4,9 +4,9 @@
 [<img align="left" alt="Ramanic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ramanic/)
 [<img align="left" alt="Ramanic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_ramanic/) 
 <br />
-
 Hi , I am Raman Lamichhane,a CS student and a tech enthusiast who loves to code ❤️
 <br />
+<code><img alt="React JS" height="200" src="https://github.com/ramanic/ramanic/raw/master/code.gif"></code>
 <br />
 
 ### Languages and Tools:
