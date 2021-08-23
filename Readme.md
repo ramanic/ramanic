@@ -1,4 +1,4 @@
-### Hello World !! <img height="20" src="https://github.com/ramanic/ramanic/raw/master/hand.gif" />
+## Hello World !! <img height="40" src="https://github.com/ramanic/ramanic/raw/master/hand.gif" />
 #### I am Raman A CS student and a tech enthusiast who loves to code ❤️
 [<img align="left" alt="Ramanic" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ramanic.github.io)
 [<img align="left" alt="Ramanic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_ramanic)
