@@ -6,7 +6,9 @@
 <br />
 Hi , I am Raman Lamichhane,a CS student and a tech enthusiast who loves to code ❤️
 <br />
-<code><img alt="React JS" height="200" src="https://github.com/ramanic/ramanic/raw/master/code.gif"></code>
+<br />
+<img alt="Raman Lamichane" src="https://github.com/ramanic/ramanic/raw/master/code.gif">
+<br />
 <br />
 
 ### Languages and Tools:
