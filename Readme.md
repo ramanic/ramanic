@@ -7,9 +7,6 @@
 Hi , I am Raman Lamichhane,a CS student and a tech enthusiast who loves to code ❤️
 <br />
 <br />
-<img alt="Raman Lamichane" height="300" src="https://github.com/ramanic/ramanic/raw/master/code.gif">
-<br />
-<br />
 
 ### Languages and Tools:
 <code><img alt="Android" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -24,7 +21,9 @@ Hi , I am Raman Lamichhane,a CS student and a tech enthusiast who loves to code 
 <code><img alt="Tensorflow" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <br />
 <br />
-
+<br />
+<img alt="Raman Lamichane" =src="https://github.com/ramanic/ramanic/raw/master/code.gif">
+<br />
 ---
 
 
