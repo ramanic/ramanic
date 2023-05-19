@@ -2,10 +2,10 @@
 
 ## नमस्ते (Namaste) 🙏🏻 , I'm Raman!
 
-### 👨🏻‍💻 &nbsp; About Me 
+<!-- ### 👨🏻‍💻 &nbsp; About Me  -->
 
 💡 &nbsp; A tech enthusiast who loves to code. \
-🎓 &nbsp; CS student.
+
 
 <!-- 
 [<img align="left" alt="Ramanic" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ramanic.github.io)
