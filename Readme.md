@@ -4,7 +4,7 @@
 
 <!-- ### 👨🏻‍💻 &nbsp; About Me  -->
 
-💡 &nbsp; A tech enthusiast who loves to code. \
+💡 &nbsp; A tech enthusiast who loves to code. 
 
 
 <!-- 
