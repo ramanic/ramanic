@@ -7,8 +7,6 @@
 💡 &nbsp; A tech enthusiast who loves to code. \
 🎓 &nbsp; CS student.
 
-
-
 <!-- 
 [<img align="left" alt="Ramanic" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ramanic.github.io)
 [<img align="left" alt="Ramanic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_ramanic)
@@ -36,9 +34,6 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
-
-<br />
-<br />
 
 <img alt="Raman Lamichane" src="https://github.com/ramanic/ramanic/raw/master/code.gif">
 
