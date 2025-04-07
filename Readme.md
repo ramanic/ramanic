@@ -2,7 +2,7 @@
 <h3 align="center"> 👨‍💻 Software Engineer  -  🧙‍♂️ Full-Stack Wizard   -  💡 Tech Enthusiast </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1B9789&center=true&vCenter=true&width=600&lines=React+%7C+Next JS+%7C+Typescript;Node JS+%7C+Nest+%7C+Express;Python+%7C+FastAPI+%7C+Flask;AI Integration+%7C+LLM+%7C+Workflow+Automation;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2A7EAC&center=true&vCenter=true&width=600&lines=React+%7C+Next JS+%7C+Typescript;Node JS+%7C+Nest+%7C+Express;Python+%7C+FastAPI+%7C+Flask;AI Integration+%7C+LLM+%7C+Workflow+Automation;" alt="Typing SVG" />
 </p>
 <div align="center">
 
