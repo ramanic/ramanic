@@ -34,6 +34,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ramanic/ramanic/output/snake.svg" alt="Snake animation" />
+
 
 ###
