@@ -2,10 +2,8 @@
 <h3 align="center"> 👨‍💻 Software Engineer  -  🧙‍♂️ Full-Stack Wizard   -  💡 Tech Enthusiast </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1B9789&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+TypeScript;Python+%7C+FastAPI;Node.js+%7C+NestJS+%7C+Express;AI+Integration+%7C+Workflow+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1B9789&center=true&vCenter=true&width=600&lines=React+%7C+Next JS+%7C+Typescript;Node JS+%7C+Nest+%7C+Express;Python+%7C+FastAPI+%7C+Flask;AI Integration+%7C+LLM+%7C+Workflow+Automation;" alt="Typing SVG" />
 </p>
-
-
 <div align="center">
 
 ### 🚀 Building the Future with Code
@@ -16,20 +14,19 @@
 
 </div>
 
-
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,nestjs,python,fastapi,docker,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,nestjs,python,fastapi,flask,go,vue,postgres,mysql,mongodb,docker,git,linux,vscode,aws" />
 </p>
 
+> 🧠 + ⚙️ Also building with LLMs (OpenAI, LangChain, vector DBs, RAG pipelines)
 
 ### ⚡ Current Focus
 
 - 🤖 AI agents & LLM-driven tools  
 - 🛠️ Custom automation engines  
 - ⚡ APIs that run at the speed of thought
-
 
 ### 🌐 Let's Connect
 
@@ -43,9 +40,7 @@
   <a href="https://www.linkedin.com/in/ramanic/" target="_blank">
     <img src="https://img.shields.io/badge/🔗 LinkedIn-@ramanic-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- 
 </p>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6E40C9&height=120&section=footer"/>
